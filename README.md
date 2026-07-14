@@ -1,5 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hyunjin Jeong 👋
 
+Java backend developer building practical business systems.
+
+## Tech Stack
+
+- Java
+- Spring Framework
+- Spring Boot
+- Oracle
+- MariaDB
+- MyBatis
+- JavaScript
+
+## Current Project
+
+### CONN
+
+A business platform that connects people, work, and information.
+
+Currently learning and applying:
+
+- Spring Boot
+- React
+- Git and GitHub
+- Docker
 <!--
 **hyunjindevv/hyunjindevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
